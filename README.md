@@ -1,4 +1,6 @@
-# Mis Proyectos con Javascript 
+# Mis Proyectos de practica con Javascript 
+
+# Calculadores de propinas de un restaurante: js-calculadore-de-propinas.netlify.app
 
 # Cotizador de Criptomonedas: https://js-criptomonedas.netlify.app/
 
