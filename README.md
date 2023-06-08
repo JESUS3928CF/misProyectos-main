@@ -1,10 +1,6 @@
 # Mis Proyectos de practica con Javascript 
 
-# Ajencia de viajes Creada con node y MySQL: https://agenciaviajes-node-production.up.railway.app/ 
-Codigo del repocitorio: https://github.com/JESUS3928CF/agenciaViajesNode.git
-
-#
-
+# Ajencia de viajes Creada con node y MySQL: https://agenciaviajes-node-production.up.railway.app/ -- Codigo del repocitorio: https://github.com/JESUS3928CF/agenciaViajesNode.git
 
 # Progresive web app de abministrador de citas: https://js-pwa-instalable-abmin-de-citas.netlify.app/
 
