@@ -1,7 +1,8 @@
 # Mis Proyectos de practica con Javascript 
 
-#  cotizador de pretamos - con react -- https://cotizador-de-pretamos-react.netlify.app/
+# Control de clientes Con IndexedDB: https://js-crm-indexeded.netlify.app/
 
+#  cotizador de pretamos - con react -- https://cotizador-de-pretamos-react.netlify.app/
 
 # Progresive web app de abministrador de citas: https://js-pwa-instalable-abmin-de-citas.netlify.app/
 
@@ -16,8 +17,6 @@
 # Consultar el clima con Fetch API: https://js-clima-con-fetch-api.netlify.app/
 
 # Administrador de citas de una veterinaria con IndexedDB: https://js-abministrador-de-citas-proyecto.netlify.app/
-
-# Control de clientes Con IndexedDB: https://js-crm-indexeded.netlify.app/
 
 # Gasto semanal: https://js-gasto-semanal-proyecto.netlify.app/
 
